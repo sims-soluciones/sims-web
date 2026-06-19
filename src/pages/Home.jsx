@@ -50,22 +50,7 @@ function Home() {
           </div>
 
         </div>
-        <section className="py-20 bg-white">
-  <div className="max-w-6xl mx-auto px-6">
-
-    <h2 className="text-4xl font-bold text-blue-900 mb-6">
-      Especialistas en Soluciones Industriales
-    </h2>
-
-    <p className="text-lg text-gray-700 leading-relaxed">
-      En SIMS ofrecemos servicios de pisos epóxicos,
-      construcción industrial, impermeabilización y
-      mantenimiento industrial para empresas,
-      almacenes, naves industriales y espacios comerciales.
-    </p>
-
-  </div>
-</section>
+      
       </div>
 
     </section>
